@@ -1,5 +1,6 @@
 # esports_rocketSeat
 Aplicação de um site onde se encontra parceiros para jogar junto através de anuncios no site.
+Projeto construído no evento next level week da Rocketseat!
 
 
 ## Instalação Front End
